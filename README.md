@@ -1,7 +1,7 @@
 # Introduction
 
 This is the implementation for Hierarchical Risk Parity approach to portfolio optimization
-as introduced by [Machine Learning Asset Allocation](https://raw.githubusercontent.com/TheRockXu/Hierarchical-Risk-Parity/master/Machine%20Learning%20Asset%20Allocation.pdf).
+as introduced by [Machine Learning Asset Allocation](https://github.com/TheRockXu/Hierarchical-Risk-Parity/blob/master/Machine%20Learning%20Asset%20Allocation.pdf).
 
 # What is in the Jupyter Notebook?
 
