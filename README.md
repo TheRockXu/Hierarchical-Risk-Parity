@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 This is the implementation for Hierarchical Risk Parity approach to portfolio optimization
 as introduced by [Machine Learning Asset Allocation](Machine Learning Asset Allocation.pdf).
